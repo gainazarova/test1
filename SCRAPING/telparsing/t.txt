@@ -1,0 +1,38 @@
+
+<div class="listbox_img pull-left">
+    <a href="/product/view/sotovyy-telefon-bravis-a505-joy-plus-belyy" target="_blank"><img src="/images/product/40544/40544.jpg" alt="Сотовый телефон BRAVIS A505 Joy Plus белый"></a></div>
+<div class="pull-right rel">
+    <div class="product_text pull-left">
+        <div class="listbox_title oh">
+            <strong><a href="/product/view/sotovyy-telefon-bravis-a505-joy-plus-belyy" target="_blank">Сотовый телефон BRAVIS A505 Joy Plus белый</a></strong>
+        </div>
+        
+	смартфон, Android 6.0
+	поддержка двух SIM-карт
+	экран 5", разрешение 1280x720
+	камера 8 МП
+	память 8 Гб, слот для карты памяти
+	3G, Wi-Fi, Bluetooth, GPS
+	объем оперативной памяти 1 Гб
+	аккумулятор 2500 мА⋅ч
+	вес 152 г, ШxВxТ 70x142x8.20 мм
+
+            </div>
+    <div class="motive_box pull-right">
+        <div class="listbox_price text-center">
+                                            <strong>7690 сом</strong>
+                        </div>
+        <div class="listbox_motive text-center">
+            <span style="color:#448511;">На складе</span>
+        </div>
+                    <div class="buttonsbox">
+                <div class="more4 pull-left">
+                    <a id="40544" class="ajaxbuy btn btn-sm btn-default btn-list" href="/index.php" onclick="dataLayer.push({'event': 'addToCart','ecommerce': {'currencyCode': 'USD','add': {'products': [{'name': 'Сотовый телефон BRAVIS A505 Joy Plus белый','id': '40544','price': '85.00','brand': 'Bravis','category': 'Мобильные телефоны','quantity': 1}]}}});">В корзину</a>                </div>
+                                    <div class="more5 pull-right">
+                        <a id="40544" class="ajax-credit-buy btn btn-sm btn-default btn-list" href="/online_credit" onclick="dataLayer.push({'event':'Credit', 'eventCategory':'Credit', 'eventAction':'click', 'eventLabel':'Сотовый телефон BRAVIS A505 Joy Plus белый'});" ontouchstart="" target="_blank">Онлайн кредит</a>                    </div>
+
+                    <div style="margin-top:6px;" class="oh ib">
+                        <a class="btn btn-sm btn-orange btn-list-buy" href="/order/create" data-method="post" data-params="{&quot;id&quot;:40544}" target="_blank" onclick="dataLayer.push({'event':'Buy', 'eventCategory':'Buy', 'eventAction':'click', 'eventLabel':'Сотовый телефон BRAVIS A505 Joy Plus белый'});">Купить</a>                    </div>
+                                </div>
+                </div>
+</div>
